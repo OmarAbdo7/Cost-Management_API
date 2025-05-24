@@ -45,6 +45,7 @@ erp-cost-management/
 ├── tsconfig.json            # TypeScript configuration
 ├── nest-cli.json            # NestJS CLI configuration
 └── README.md                # This file
+
 ## Prerequisites
 
 - Node.js (v14.x or later)
